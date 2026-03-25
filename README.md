@@ -13,6 +13,9 @@ Working repository for General Devices CAREpoint reference notes, workflow break
 ## Current contents
 
 - `carepoint-workflow.md`: high-level workflow summary
+- `replacement-product-first-steps.md`: first-step plan for building a better CAREpoint alternative
+- `carepoint-opportunity-areas.md`: likely weakness and opportunity mapping
+- `hipaa-architecture-notes.md`: early compliance and architecture considerations
 
 ## Next ideas
 
