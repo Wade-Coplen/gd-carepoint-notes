@@ -4,10 +4,10 @@
       "path": "."
     },
     {
-      "path": "gd-carepoint-app"
+      "path": "edaware-app"
     },
     {
-      "path": "gd-carepoint-notes-language-cleanup"
+      "path": "edaware-notes-language-cleanup"
     }
   ],
   "settings": {
