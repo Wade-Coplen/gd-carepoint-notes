@@ -3,3 +3,5 @@ Thumbs.db
 .vscode/*
 !.vscode/extensions.json
 *.log
+gd-carepoint-app/
+gd-carepoint-notes-language-cleanup/

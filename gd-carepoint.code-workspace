@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "gd-carepoint-app"
+    },
+    {
+      "path": "gd-carepoint-notes-language-cleanup"
+    }
+  ],
+  "settings": {
+    "git.openRepositoryInParentFolders": "never"
+  }
+}
