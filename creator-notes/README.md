@@ -1,6 +1,6 @@
 # Creator Notes Workspace
 
-This folder is for creator-only notes about the CAREpoint replacement concept.
+This folder is for creator-only notes about the EDAware concept.
 
 It is not an in-product feature. It is a planning space for the person designing and building the app.
 

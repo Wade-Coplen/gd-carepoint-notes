@@ -1,6 +1,6 @@
-# Cleaner Admin Model for CAREpoint-Like Workflows
+# Cleaner Admin Model for EDAware
 
-This document proposes a cleaner administrative model for a CAREpoint replacement platform, focused on four high-friction areas:
+This document proposes a cleaner administrative model for EDAware, focused on four high-friction areas:
 
 - alerts
 - templates
@@ -307,9 +307,9 @@ An admin should be able to open a single alert type and see:
 
 That one-screen relationship view is one of the biggest usability upgrades over fragmented legacy administration.
 
-## Carepoint-specific recommendations
+## EDAware-specific recommendations
 
-For a CAREpoint-like product, I would strongly recommend:
+For EDAware, I would strongly recommend:
 
 ### Keep local site configuration, but constrain it
 

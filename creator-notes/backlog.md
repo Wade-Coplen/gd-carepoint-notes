@@ -2,7 +2,7 @@
 
 ## Near-term
 
-- clarify the product vision for the CAREpoint replacement
+- clarify the product vision for EDAware
 - separate creator-repo materials from future application-repo materials
 - draft a first requirements document
 - expand the admin model for hospital configuration
@@ -12,7 +12,7 @@
 
 - what is the narrowest v1 worth building
 - which users are primary in the first release
-- which CAREpoint pain points matter most to fix first
+- which legacy platform pain points matter most to fix first
 - what must stay configurable by hospital site
 - what should be standardized across all sites
 

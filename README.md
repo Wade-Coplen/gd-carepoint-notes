@@ -1,6 +1,6 @@
-# GD CAREpoint Creator Notes
+# EDAware Creator Notes
 
-Working repository for creator-only notes, concept planning, workflow breakdowns, and follow-up research for a CAREpoint replacement.
+Working repository for creator-only notes, concept planning, workflow breakdowns, and follow-up research for EDAware.
 
 ## Repo role
 
@@ -10,7 +10,7 @@ It is not the app itself and it is not a user-facing notes feature.
 
 ## Scope
 
-- CAREpoint system workflow
+- EDAware system workflow
 - EMS to ED communication flow
 - Alerts, intake forms, and escalation behavior
 - QA and reporting notes
@@ -19,11 +19,11 @@ It is not the app itself and it is not a user-facing notes feature.
 
 ## Current contents
 
-- `carepoint-workflow.md`: high-level workflow summary
-- `replacement-product-first-steps.md`: first-step plan for building a better CAREpoint alternative
-- `carepoint-opportunity-areas.md`: likely weakness and opportunity mapping
+- `edaware-workflow.md`: high-level workflow summary
+- `replacement-product-first-steps.md`: first-step plan for building EDAware
+- `edaware-opportunity-areas.md`: likely weakness and opportunity mapping
 - `hipaa-architecture-notes.md`: early compliance and architecture considerations
-- `admin-model-carepoint.md`: cleaner admin model for alerts, templates, routing, and permissions
+- `admin-model-edaware.md`: cleaner admin model for alerts, templates, routing, and permissions
 - `creator-notes/README.md`: overview of the creator-only workspace
 - `creator-notes/structure.md`: recommended structure for creator notes and concept documents
 - `creator-notes/backlog.md`: open product, repo, and planning questions

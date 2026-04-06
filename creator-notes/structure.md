@@ -2,7 +2,7 @@
 
 ## High-level role
 
-This repo is a creator workspace for the CAREpoint replacement concept. It is for research, product planning, architecture, and decision tracking.
+This repo is a creator workspace for the EDAware concept. It is for research, product planning, architecture, and decision tracking.
 
 It is not the runtime app.
 

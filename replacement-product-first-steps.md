@@ -1,6 +1,6 @@
-# First Steps for a Better CAREpoint Alternative
+# First Steps for EDAware
 
-This document outlines the earliest practical steps for building a hospital-EMS communication platform that improves on General Devices CAREpoint with less fixed hardware and a modern HIPAA-conscious recording architecture.
+This document outlines the earliest practical steps for building EDAware, a hospital-EMS communication platform with less fixed hardware and a modern HIPAA-conscious recording architecture.
 
 ## Strategic framing
 
@@ -26,7 +26,7 @@ Start with a focused version one:
 - incoming communication handling
 - recording storage and review
 
-Avoid trying to replace every historical CAREpoint feature at once.
+Avoid trying to replace every historical legacy feature at once.
 
 ### 2. Validate real user pain
 

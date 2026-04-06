@@ -1,6 +1,6 @@
-# CAREpoint Weaknesses and Opportunity Areas
+# EDAware Opportunity Areas
 
-This document does not claim verified defects in General Devices CAREpoint. It captures likely opportunity areas based on product positioning, legacy workflow patterns, and the strategic direction discussed for a more modern replacement.
+This document captures likely opportunity areas for EDAware based on legacy workflow patterns and the strategic direction discussed for a more modern replacement.
 
 ## Potential weakness themes
 

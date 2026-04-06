@@ -1,9 +1,9 @@
 Meeting Minutes
 Date: 2026-04-05
-Repository: gd-carepoint-notes
+Repository: EDAware creator notes
 
 Summary
-- The repository is currently a documentation and planning workspace for a CAREpoint replacement concept.
+- The repository is currently a documentation and planning workspace for the EDAware concept.
 - The repo direction was clarified: this should be a separate creator-only repo for the app concept.
 - The earlier "notes" language was corrected to mean creator notes, not an in-product notes tab.
 
@@ -35,10 +35,10 @@ Next Planned Activity
 - Continue updating these meeting minutes as decisions are made
 
 Additional Direction Captured
-- Build a cleaner admin model for alerts, templates, call routing, and role permissions as it pertains to CAREpoint.
+- Build a cleaner admin model for alerts, templates, call routing, and role permissions as it pertains to EDAware.
 
 Artifacts Added
-- admin-model-carepoint.md
+- admin-model-edaware.md
 
 Admin Model Summary
 - Separate admin configuration into four modules: alerts, templates, routing, and permissions.
