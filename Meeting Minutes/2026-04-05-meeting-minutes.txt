@@ -1,0 +1,47 @@
+Meeting Minutes
+Date: 2026-04-05
+Repository: gd-carepoint-notes
+
+Summary
+- The repository is currently a documentation and planning workspace for a CAREpoint replacement concept.
+- The repo direction was clarified: this should be a separate creator-only repo for the app concept.
+- The earlier "notes" language was corrected to mean creator notes, not an in-product notes tab.
+
+Creator Repo Purpose
+- Store creator notes
+- Store workflow notes
+- Store implementation notes
+- Track follow-up tasks
+- Keep planning and concept materials separate from the future app repo
+
+Files Added
+- creator-notes/README.md
+- creator-notes/structure.md
+- creator-notes/backlog.md
+
+Options Discussed For Next Step
+1. Turn creator documents into more detailed requirements
+2. Create a simple concept mock when the app direction is ready
+3. Commit and push the current changes to GitHub
+
+User Feedback
+- The user liked all three options.
+- The user plans to paste detailed requirements next for review and honest feedback.
+- The user clarified that "notes" means creator notes and should live in a separate creator repo.
+
+Next Planned Activity
+- Review the pasted requirements
+- Give direct feedback on strengths, weaknesses, gaps, and recommended changes
+- Continue updating these meeting minutes as decisions are made
+
+Additional Direction Captured
+- Build a cleaner admin model for alerts, templates, call routing, and role permissions as it pertains to CAREpoint.
+
+Artifacts Added
+- admin-model-carepoint.md
+
+Admin Model Summary
+- Separate admin configuration into four modules: alerts, templates, routing, and permissions.
+- Put those modules on top of a shared governance layer with audit logging, draft and published states, simulation, approval workflow, and rollback.
+- Use structured flexibility rather than unconstrained local customization.
+- Make dependencies visible so an admin can see which template, routing policy, escalation logic, and roles are tied to a given alert.
