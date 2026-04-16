@@ -23,6 +23,7 @@ It is not the app itself and it is not a user-facing notes feature.
 - `replacement-product-first-steps.md`: first-step plan for building EDAware
 - `edaware-opportunity-areas.md`: likely weakness and opportunity mapping
 - `hipaa-architecture-notes.md`: early compliance and architecture considerations
+- `first-steps-to-hipaa-compliance.md`: practical early compliance checklist for EDAware
 - `admin-model-edaware.md`: cleaner admin model for alerts, templates, routing, and permissions
 - `creator-notes/README.md`: overview of the creator-only workspace
 - `creator-notes/structure.md`: recommended structure for creator notes and concept documents
