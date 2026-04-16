@@ -1,0 +1,20 @@
+Conversation Summary
+Date: 2026-04-15
+Repository: EDAware creator notes
+
+Key decisions and reminders
+- Reconfirmed that the local repos are still connected to GitHub.
+- Reconfirmed that the current browser MVP is a prototype and not sufficient for production go-live by itself.
+- Clarified that a real production version of EDAware will need a fuller application stack, including backend services, authentication, data storage, audit logging, and secure deployment.
+- Added a reminder to save important conversation outcomes into the repo.
+
+Product clarification
+- Basic HTML, CSS, and JavaScript are useful for prototyping, workflow validation, and demos.
+- They are not sufficient alone for a production healthcare operations product.
+- A go-live version should include a proper frontend framework, backend API, database, authentication, monitoring, and compliance-aware controls.
+
+Ongoing principle
+- Structured flexibility remains one of the core product doctrines for EDAware.
+
+Next likely move
+- Continue evolving the prototype into a production-oriented architecture when ready.

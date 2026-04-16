@@ -27,6 +27,7 @@ It is not the app itself and it is not a user-facing notes feature.
 - `creator-notes/README.md`: overview of the creator-only workspace
 - `creator-notes/structure.md`: recommended structure for creator notes and concept documents
 - `creator-notes/backlog.md`: open product, repo, and planning questions
+- `creator-notes/structured-flexibility.md`: core product doctrine for safe, usable configurability
 - `Meeting Minutes/`: dated meeting and decision summaries
 
 ## Next ideas
